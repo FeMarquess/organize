@@ -1,0 +1,12 @@
+.head {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    background-image: url("../../image/imagemdefundo.jpg");
+}
+
+h1 {
+    font-family: sacramento;
+    font-size: 96px;
+    margin-top: 50%;
+}

@@ -1,0 +1,25 @@
+.Navbar {
+    background-color: #E8E2E4;
+    padding-top: 16px;
+    height: 3rem;
+}
+
+.Navbar ul {
+    display: flex;
+    justify-content: flex-end;
+    align-items: bottom;
+    list-style: none;
+}
+.Navbar li {
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+.link{
+    text-decoration: solid;
+    font-weight: bold;
+    color: black;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Lora';
+    padding: 16px;
+}

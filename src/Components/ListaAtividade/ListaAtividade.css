@@ -1,0 +1,21 @@
+.lista-atividade {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 24px;
+}
+.lista-atividade select {
+    background-color: #E8E2E4;
+    width: 100%;
+    border-bottom: 2px solid black;
+    border-top: none;
+    border-left: none;
+    font-size: 20px;
+    padding: 10px;
+    font-family: lora;
+}
+.lista-atividade label{
+    display: block;
+    margin-bottom: 8px;
+    font-size: 24px;
+    font-weight: 600;
+}

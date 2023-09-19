@@ -1,0 +1,12 @@
+.todo {
+    padding: 24px;
+    display: flex;
+    justify-content: center;
+    background-image: url("../../image/imagemdefundo.jpg");
+    width: 100%;
+}
+.atividade {
+    display: block;
+    padding-top: 24px;
+    padding-right: 64px;
+}

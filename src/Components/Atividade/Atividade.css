@@ -1,0 +1,25 @@
+.Atividade {
+    text-align: center;
+    padding: 8px;
+    background-color: #E8E2E4;
+    width: 432px;
+}
+
+.Atividade h3 {
+    font-size: 20px;
+    display: inline-block;
+    padding-top: 16px;
+    text-decoration: line-through;
+    text-decoration-thickness: 24px;
+    font-weight: bold;
+    color: black;
+    font-family: lora;
+}
+
+.Atividade .trabalho {
+    display: block;
+    justify-content: space-around;
+    margin-top: 32px;
+    flex-wrap: wrap;
+    
+}

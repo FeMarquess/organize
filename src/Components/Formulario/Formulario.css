@@ -1,0 +1,17 @@
+.formulario {
+    display: flex;
+    justify-content: center;
+    padding: 24px;
+    margin: 24px;
+    background-color: #E8E2E4;
+    width: 432px;
+    height: 486px;
+}
+.formulario form {
+    max-width: 80%;
+    padding: 12px 24px;
+}
+.formulario h2 {
+    font-family: lora;
+    text-align: left;
+}
